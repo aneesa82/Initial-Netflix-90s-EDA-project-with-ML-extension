@@ -149,5 +149,5 @@ This project demonstrates how structured exploratory data analysis can uncover m
 
 **📬 Author**
 
-Muneeza Syed
+Aneesa Syed
 📍 United Kingdom
